@@ -38,7 +38,7 @@ Linguagens & Tecnologias: `Python`, `Canvas`, `Photoshop`,\
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
 
 **Professor de Informática** \
-[**Jumper**]([https://jumpercursos.com.br/unidade/sao-jose-dos-campos-sp]) • Contract \
+[**Jumper**]([https://jumpercursos.com.br/unidade/sao-jose-dos-campos-sp] • Contract \
 Linguagens & Tecnologias: `JavaScript`, `Canvas`, `Excell`\
 <br/>
 
