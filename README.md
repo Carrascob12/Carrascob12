@@ -42,7 +42,7 @@ Linguagens & Tecnologias: `Python`, `Canvas`, `Photoshop`,\
 Linguagens & Tecnologias: `JavaScript`, `Canvas`, `Excell`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://steamuserimages-a.akamaihd.net/ugc/868490251624162516/38B7121237FC2389438530AACD29578368500A9F/"/>](www.rpgmakerweb.com/)
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://static.vecteezy.com/system/resources/previews/020/031/576/original/rpg-abstract-technology-circle-setting-logo-design-on-black-background-rpg-creative-initials-letter-logo-concept-vector.jpg"/>](www.rpgmakerweb.com/)
 
 **Desenvolvedor de Games** \
 [**RPG Maker**](https://www.rpgmakerweb.com/) • Contract \
