@@ -42,7 +42,7 @@ Linguagens & Tecnologias: `Python`, `Canvas`, `Photoshop`,\
 Linguagens & Tecnologias: `JavaScript`, `Canvas`, `Excell`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://steamuserimages-a.akamaihd.net/ugc/868490251624162516/38B7121237FC2389438530AACD29578368500A9F/"/>](www.rpgmakerweb.com/)
 
 **Desenvolvedor de Games** \
 [**RPG Maker**](https://www.rpgmakerweb.com/) • Contract \
