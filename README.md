@@ -2,10 +2,10 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🤔 Explorando novas tecnologias e desenvolvendo Hard e Soft skills.
+- 🎓 Estudando Gestão de Produção Industrial na FATEC.
+- 💼 Trabalhando como Gestor de Marketing na Veibras.
+- 🌱 Aprendendo mais sobre Gestão Digital e Física.
 
 ## Minhas Skills
 
