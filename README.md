@@ -28,28 +28,25 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://www.spacex.com/static/images/share.jpg](https://scontent-gru1-1.cdninstagram.com/v/t51.2885-19/253911375_193127646339193_363057058832418660_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-gru1-1.cdninstagram.com&_nc_cat=101&_nc_ohc=CvPxYnqqTW4Q7kNvgHaVLpP&_nc_gid=d57fb29851ab48f1a8184ba0696dfb19&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYCnTVjOgVJIU1p5akYLcnE5f_Q0VtvQOIb9KoF7O0HiBA&oe=66FBB4AA&_nc_sid=8b3546)"/>](http://www.agenciaparlak.com.br/)
 
 **Gestor de Marketing** \
-[**Parlak**](https://www.blank.com/) • Full-time \
+[**Parlak**](http://www.agenciaparlak.com.br/) • Full-time \
 Linguagens & Tecnologias: `Python`, `Canvas`, `Photoshop`,\
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
 
-**Frot-end Developer (Jr)** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
+**Professor de Informática** \
+[**Jumper**]([https://rocketseat.com.br](https://jumpercursos.com.br/unidade/sao-jose-dos-campos-sp/)/) • Contract \
+Linguagens & Tecnologias: `JavaScript`, `Canvas`, `Excell`\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
 
-**Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [App](https://nubank.com.br/)
+**Desenvolvedor de Games** \
+[**RPG Maker**](https://www.rpgmakerweb.com/) • Contract \
+Linguagens & Tecnologias: `RPG Maker`, `Node`, `My-Sql`, `VS-Code`, `GameMaker` \
 <br/>
 <br/>
 
