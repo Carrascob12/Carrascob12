@@ -35,7 +35,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 Linguagens & Tecnologias: `Python`, `Canvas`, `Photoshop`,\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVxvNoTPgXxg4O1b_ePCeHAKwKHTDbII3q9fgnwiGnYD4N9TVd8JGy-IRoGOxPBWopUX4&usqp=CAU"/>](https://rocketseat.com.br/)
 
 **Professor de Informática** \
 [**Jumper**](https://jumpercursos.com.br/unidade/sao-jose-dos-campos-sp/) • Contract \
