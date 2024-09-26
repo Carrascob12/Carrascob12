@@ -44,7 +44,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 
-<br/>
+##
+
 <div align="center">
   <h3><b>📍 Contagem de Visitantes do Perfil</b></h3>
 </div>
