@@ -1,4 +1,10 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+<h1 align="center">
+  <br>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://avatars.githubusercontent.com/u/164305717?v=4" alt="Perfil" width="200"></a>
+  <br>
+  Markdownify
+  <br>
+</h1>
 
 ## Sobre mim
 
