@@ -28,7 +28,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://www.spacex.com/static/images/share.jpg](https://scontent-gru1-1.cdninstagram.com/v/t51.2885-19/253911375_193127646339193_363057058832418660_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-gru1-1.cdninstagram.com&_nc_cat=101&_nc_ohc=CvPxYnqqTW4Q7kNvgHaVLpP&_nc_gid=d57fb29851ab48f1a8184ba0696dfb19&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYCnTVjOgVJIU1p5akYLcnE5f_Q0VtvQOIb9KoF7O0HiBA&oe=66FBB4AA&_nc_sid=8b3546)"/>](http://www.agenciaparlak.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://scontent-gru1-1.cdninstagram.com/v/t51.2885-19/253911375_193127646339193_363057058832418660_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-gru1-1.cdninstagram.com&_nc_cat=101&_nc_ohc=CvPxYnqqTW4Q7kNvgHaVLpP&_nc_gid=d57fb29851ab48f1a8184ba0696dfb19&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYCnTVjOgVJIU1p5akYLcnE5f_Q0VtvQOIb9KoF7O0HiBA&oe=66FBB4AA&_nc_sid=8b3546)"/>](http://www.agenciaparlak.com.br/)
 
 **Gestor de Marketing** \
 [**Parlak**](http://www.agenciaparlak.com.br/) • Full-time \
