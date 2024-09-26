@@ -56,6 +56,12 @@ Linguagens & Tecnologias: `RPG Maker`, `Node`, `My-Sql`, `VS-Code`, `GameMaker` 
 <br/>
 <br/>
 
+ <details style='text-align: center;' align='center'>
+  <summary> Click Here </summary>
+  <p style="text-align: center;"align="center">============================================================</p>
+
+<a href="https://youtu.be/LIlZCmETvsY" target="blank"><img align="center" alt="GIF" src="https://i.pinimg.com/originals/b2/b0/2f/b2b02f3b94075334edb07f8e6f8c0d11.gif" /></a>
+
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
@@ -63,6 +69,10 @@ Linguagens & Tecnologias: `RPG Maker`, `Node`, `My-Sql`, `VS-Code`, `GameMaker` 
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 
 ##
+
+  <p style="text-align: center;"align="center">============================================================</p>
+</details>
+
 
 <div align="center">
   <h3><b>📍 Contagem de Visitantes do Perfil</b></h3>
