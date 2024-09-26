@@ -28,7 +28,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://i.ibb.co/mzdnS6F/253911375-193127646339193-363057058832418660-n.jpg"/>](https://rocketseat.com.br/)
 
 **Gestor de Marketing** \
 [**Parlak**](http://www.agenciaparlak.com.br/) • Full-time \
