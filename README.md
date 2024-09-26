@@ -35,7 +35,7 @@
 <br/>
 
 <a href="https://github.com/Carrascob12" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carrascob12&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
