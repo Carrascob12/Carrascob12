@@ -65,8 +65,8 @@ Linguagens & Tecnologias: `RPG Maker`, `Node`, `My-Sql`, `VS-Code`, `GameMaker` 
 #                                                                    *MEU PC*
 
       Processador AMD Ryzen 3 2200 3,5Ghz 
-      Placa de Video Radeon RX 560 Series
-      Radeon Red Dragon DDR4-2400 8GB 
+    Placa de Video Radeon RX 560 Series
+  Radeon Red Dragon DDR4-2400 8GB 
       Placa Mãe ASRock A320M-HD
       GB(2x8) RAM 1200.6mhz
       Monitor LED 1600x900" 60Hz
