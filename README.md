@@ -61,7 +61,7 @@ Linguagens & Tecnologias: `RPG Maker`, `Node`, `My-Sql`, `VS-Code`, `GameMaker` 
   <p style="text-align: center;"align="center">============================================================</p>
 
 <a href="https://youtu.be/LIlZCmETvsY" target="blank"><img align="center" alt="GIF" src="https://i.pinimg.com/originals/b2/b0/2f/b2b02f3b94075334edb07f8e6f8c0d11.gif" /></a>
-
+#
 #                                                                    *MEU PC*
 
       Processador AMD Ryzen 3 2200 3,5Ghz 
@@ -74,7 +74,7 @@ Linguagens & Tecnologias: `RPG Maker`, `Node`, `My-Sql`, `VS-Code`, `GameMaker` 
 
 
 #
-
+#
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
